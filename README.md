@@ -1,2 +1,2 @@
 # silly-api
-A simple API to project to test CI/CD pipelines
+Super simple API just to test CI/CD pipelines
